@@ -1,0 +1,12 @@
+C:\Users\Nate\source\repos\Vector Adder Final\bin\Debug\Vector Adder Final.exe.config
+C:\Users\Nate\source\repos\Vector Adder Final\bin\Debug\Vector Adder Final.exe
+C:\Users\Nate\source\repos\Vector Adder Final\bin\Debug\Vector Adder Final.pdb
+C:\Users\Nate\source\repos\Vector Adder Final\obj\Debug\Vector Adder Final.csproj.AssemblyReference.cache
+C:\Users\Nate\source\repos\Vector Adder Final\obj\Debug\Vector Adder Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nate\source\repos\Vector Adder Final\obj\Debug\Vector_Adder_Final.Form1.resources
+C:\Users\Nate\source\repos\Vector Adder Final\obj\Debug\Vector_Adder_Final.Properties.Resources.resources
+C:\Users\Nate\source\repos\Vector Adder Final\obj\Debug\Vector Adder Final.csproj.GenerateResource.cache
+C:\Users\Nate\source\repos\Vector Adder Final\obj\Debug\Vector Adder Final.csproj.CoreCompileInputs.cache
+C:\Users\Nate\source\repos\Vector Adder Final\obj\Debug\Vector Adder Final.exe
+C:\Users\Nate\source\repos\Vector Adder Final\obj\Debug\Vector Adder Final.pdb
+C:\Users\Nate\source\repos\Vector Adder Final\obj\Debug\Vector_Adder_Final.Form2.resources
